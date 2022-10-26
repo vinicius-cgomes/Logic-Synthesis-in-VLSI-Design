@@ -2,3 +2,8 @@ https://www.eng.biu.ac.il/temanad/files/2017/02/Lecture-5-Synthesis.pdf
 
 https://www.einfochips.com/blog/asic-design-flow-in-vlsi-engineering-services-a-quick-guide/
 
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/1223.html
+
+https://chipedge.com/learn-all-about-logic-synthesis/
+
+https://vlsi-backend-adventure.com/logic_synthesis.html
