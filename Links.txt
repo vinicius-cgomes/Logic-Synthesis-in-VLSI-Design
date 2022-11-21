@@ -9,7 +9,7 @@ https://chipedge.com/learn-all-about-logic-synthesis/
 https://vlsi-backend-adventure.com/logic_synthesis.html
 
 
-# Livros bibliografia
+# Books
 Advanced Logic Synthesis : https://link.springer.com/content/pdf/10.1007/978-3-319-67295-3.pdf
 
 VHDL for logic synthesis: https://learning.oreilly.com/library/view/vhdl-for-logic/9780470688472/chapter02.html
@@ -21,3 +21,53 @@ New Data Structures and Algorithms for Logic Synthesis and Verification: https:/
 Logic Synthesis for FPGA-Based Control Units: https://link.springer.com/content/pdf/10.1007/978-3-030-38295-7.pdf
 
 Logic Synthesis for FPGA-Based Finite State Machines : https://link.springer.com/content/pdf/10.1007/978-3-319-24202-6.pdf
+
+LOGIC SYNTHESIS FOR VLSI DESIGN : https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/ERL-89-49.pdf
+
+
+# Articles
+EVALUATING VHDL-BASED ASIC SYNTHESIS TOOLS : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=270240
+
+INTEGRATING LOGIC SYNTHESIS INTO A FULL CHIP ASIC DESIGN SYSTEM : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=123179
+
+Synthesis Methods for Field Programmable Gate Arrays : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=231344
+
+Are Logic Synthesis Tools Robust? : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5981984
+
+Teaching Hardware/Software Co-design of Embedded Systems – a Case Study : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8768584
+
+Multi-domain transformational design flow for embedded systems : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6045449
+
+Design and Simulation of Heterogeneous Embedded Systems : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=876059
+
+Logic Optimization and Synthesis: Trends and Directions in Industry : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7927194
+
+Behavioral to Structural Translation in ESOP Form : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=323747
+
+Synthesis Tools and Design Environment for Dynamically Reconfigurable FPGAs : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=715408
+
+Chapter 13 - Technology Mapping : https://www.sciencedirect.com/science/article/pii/B9780123705228500194
+
+
+# Internet Links
+Lecture 5: Logic Synthesis : https://www.eng.biu.ac.il/temanad/files/2017/02/Lecture-5-Synthesis.pdf
+
+Logic Synthesis Basics For FPGA: https://semiengineering.com/logic-synthesis-basics-for-fpga/
+
+ASIC Design Flow in VLSI Engineering Services – A Quick Guide : https://www.einfochips.com/blog/asic-design-flow-in-vlsi-engineering-services-a-quick-guide/
+
+Logic Synthesis : https://vlsi-backend-adventure.com/logic_synthesis.html
+
+What is Embedded System Design : Steps in the Design Process : https://www.elprocus.com/embedded-system-design/
+
+https://www.linkedin.com/pulse/synthesis-flow-overview-ankit-mahajan/
+
+
+# Youtube Lectures
+Lec 39: Introduction to Logic Synthesis : https://www.youtube.com/watch?v=8gtoq7bMrSs
+
+DVD - Lecture 4: Logic Synthesis - Part II : https://www.youtube.com/watch?v=lTt2LN7nub0
+
+What is Logic Synthesis? : https://www.youtube.com/watch?v=BtM8p5J7Kbc
+
+Synthesis | RTL2GDSII | Back To Basics : https://www.youtube.com/watch?v=mfu4mpC8-Mc
