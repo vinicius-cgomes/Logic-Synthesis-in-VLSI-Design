@@ -7,3 +7,17 @@ https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/1223.html
 https://chipedge.com/learn-all-about-logic-synthesis/
 
 https://vlsi-backend-adventure.com/logic_synthesis.html
+
+
+# Livros bibliografia
+Advanced Logic Synthesis : https://link.springer.com/content/pdf/10.1007/978-3-319-67295-3.pdf
+
+VHDL for logic synthesis: https://learning.oreilly.com/library/view/vhdl-for-logic/9780470688472/chapter02.html
+
+ASIC design and synthesis: https://campusapp08.hshl.de/978-981-33-4642-0.pdf
+
+New Data Structures and Algorithms for Logic Synthesis and Verification: https://link.springer.com/content/pdf/10.1007/978-3-319-43174-1.pdf
+
+Logic Synthesis for FPGA-Based Control Units: https://link.springer.com/content/pdf/10.1007/978-3-030-38295-7.pdf
+
+Logic Synthesis for FPGA-Based Finite State Machines : https://link.springer.com/content/pdf/10.1007/978-3-319-24202-6.pdf
